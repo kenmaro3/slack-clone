@@ -31,8 +31,8 @@ function Login() {
                 <img src="https://editorial.designtaxi.com/editorial-images/news-logo28022019/1.jpg"
                      alt=""
                 />
-                <h1>Sign in to Clever Programmer HQ</h1>
-                <p>cleverprogrammer.slack.com</p>
+                <h1>Sign in to My Awesome Slack Clone</h1>
+                <p>slack.com</p>
                 <Button onClick={signIn}>Sign In with Google </Button>
 
             </div>

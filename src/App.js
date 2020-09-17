@@ -28,7 +28,7 @@ function App() {
   
             </Route>
             <Route path="/">
-              <h1>welcome</h1>
+
             </Route>
           </Switch>
           
